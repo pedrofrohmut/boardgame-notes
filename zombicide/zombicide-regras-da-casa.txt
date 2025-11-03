@@ -1,0 +1,29 @@
+Green Horde:
+
+1. Busca:
+    Jogar dado para fazer busca. 1 aparece zumbi, 6 vem item extra e demais numeros
+  continua a mecanica normal do jogo. Tambem ignorar as cartas de achar um zumbi,
+  somente descarte e compre outra ou tire do baralho previamente.
+
+2. Ordem dos personagens:
+    No jogo tem o primeiro jogador, com token, e troca-se o token para o jogador da
+  esquerda a cada turno e tambem os jogadores jogam com todos os seus sobreviventes
+  no sentido horario.
+    Pelas regras da casa todos os sobreviventes podem ser jogados, idenpendentemente
+  de a qual jogador ele pertence. Nao ha ordem fixa os jogadores escolhem quem vai
+  primeiro.
+
+3. Passar uma acao:
+    Os sobreviventes podem ceder uma de suas acoes para outro sobrevivente uma vez
+  por turno. Utilizando o token da coroa.
+
+4. Acabar as miniaturas:
+    Toda a vez que acabar as miniaturas referentes a carta de zumbi a ser resolvida
+  coloque outro tipo de zumbi no lugar.
+
+5. Divisao dos zumbis:
+    A contrario do que as versoes mais atigas dizem no manual, nao utilizar a meca-
+  nica de adicionar um zumbi extra quando os grupo forem se dividir. Simplesmente
+  escolha um dos lados para ter um zumbi a menos. No caso de haver um caminho livre
+  e um caminho que cruza algum obstaculo, de preferencia para o caminho livre para
+  acelerar a movimentacao dos zumbis.
