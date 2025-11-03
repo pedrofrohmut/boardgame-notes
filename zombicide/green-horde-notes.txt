@@ -1,0 +1,107 @@
+Linha de visao:
+
+1. Linha de visao sempre em linha reta.
+2. Linha de visao so enxerga 0-1 comodo distancia em construcoes. O primeiro comodo
+da construcao pode ser visto se a porta estiver aberta e o sobrevivente tem linha
+de visao para a porta.
+3. Voce pode ter visao 2 de distancia se a segunda zona fica no exterior. Mas nao
+se a zona fica no interior.
+4. Parede de cerca viva obstruem a visao.
+5. Nao tem linha de visao na diagonal.
+
+Combate:
+1. Corpo a corpo pode escolher o alvo dos acertos.
+2. Ataques a distancia e magias nao podem escolher alvo apenas a zona de ataque, e
+logo seguir sempre a prioridade de acerto.
+3. Ataques a distancia causam fogo amigo, mesmo que a zona alvo seja a mesma em que
+o sobrevivente se encontra.
+4. No caso de dual de spell ou ataque a distancia, em uma acao todos os ataques
+devem ser feitos em um unica zona.
+5. No casos que houver uma abominacao junto a brutos, em uma mesma zona, como os
+dois possuem a mesma prioridade o sobrevivente pode escolher o alvo.
+
+Prioridade dos zumbis:
+1. Zumbis irao sempre em direcao ao sobreviventes no campo de visao. Se houver mais
+de uma opcao, irao para a direcao que holver mais barulho, a distancia nao importa.
+Se nao holver nenhum sobrevivente na linha de visao irao em direcao da zona mais
+barulhenta do mapa, tambem nao importando a distancia.
+2. Remova os tokens de barulho na faze final.
+3. Cada miniatura de sobrevivente conta como uma ficha de barulho.
+
+Busca / Inventario:
+1. So pode ser feita uma acao de procura por sobrevivente por turno. Ao realizar
+uma busca o sobrevivente ganha uma acao gratis de organizar o inventario.
+2. Itens podem ser descartados sempre que o sobrevivente fizer uma acao que permite
+reorganizar o inventario (busca / troca / reorganizacao).
+
+Abrir portas:
+1. Abrir uma porta nao eh uma acao de combate e nao se beneficia de armas duplas,
+e dados extras de adagas, escudo nordico, etc. E rolada a quantidade de dados
+escrito na carta diretamente sem nenhum bonus extra.
+
+Grupos de zumbis:
+1. Se houver mais de uma opcao de caminho, com a mesma distancia ate a zona de
+destino, o grupo de zumbis sempre se divide em dois.
+2. Adicione um zumbi a mais caso o quantidade de zumbis esteja desbalanceada.
+
+Acabou as miniaturas:
+1. Adicione qualquer outro tipo de zumbi no mapa para completar o numero e os
+zumbis do tipo da carta invocada ganha um ativacao extra.
+
+Necromancers:
+1. Orcs necromancers precisam de uma ativacao quando chegam ao seu destino para
+sair pelo seu destino. No caso no qual todos os spawns estao na mesma zona, o
+necromancer entra num rodada e saira na rodada seguinte, e nao imediatamente logo
+os sobreviventes tem ainda 1 turno para tentar eliminar o necromante mesmo neste
+caso.
+2. Se nao houver um sobrevivente na mesma zona do necromante ira sempre na direcao
+do spawn mais proximo e agira idenpendente dos outros zumbis.
+3. Resolva sempre o spawn do necro logo apos o necromante entrar na partida.
+
+Trabuco:
+1. Trabuco gasta 3 acoes para atirar ou para move-lo 1 zona, sobrevivente se move
+junto para a zona alvo.
+2. Se a zona alvo estiver no campo de visao de algum sobrevivente, o trabuco ganha
+bonus de 1 no resultado do dado. Acerto com apenas 3 ja eh o suficiente.
+2. Nao precisa de linha de visao para atirar o trabuco.
+3. Voce pode atirar em qualquer zona, mesmo em construcoe. Pode tambem atirar na
+horda quando ela ainda esta fora do mapa. A horda como uma unica zona e nao ha
+linha de vizao para ela (Na da para ter o bonus de visao no caso).
+4. Trabuco nao pode atirar perto demais. Somente acima de 2 zonas.
+
+Barreiras:
+1. Os zumbis irao sempre contornar as barreiras, a nao ser que nao haja caminho
+livre disponivel. No caso de nao haver caminho disponivel os zumbis gastam uma acao
+para quebrar a barreira, salvo casos de excessao, nas missoes que as barreiras
+sao inquebraveis.
+
+Atoleiros:
+1. Sobreviventes gastam uma acao extra para andar de uma area de atoleiro para
+outra se nao houver um banco de areia entre elas.
+2. Sobreviventes gastam uma acao extra para subir uma elevacao e zumbis nao conseguem
+subir e irao procurar um caminho alternativo. Mas para descer uma elevacao nao ha
+nenhuma diferenca para uma area normal, tanto para zumbis quanto para sobreviventes.
+3. Zumbis nao tem penalidade de movimento em atoleiros mas nao conseguem subir
+elevacoes e tem que procurar um caminho alternativo.
+4. Encanto de velocidade remove penalidades de movimento para sobreviventes em atoleiros.
+5. Trabucos quebram se forem movidos para atoleiros.
+6. Fogo de dragao nao funciona em atoleiros.
+
+Habilidade Pulo:
+Somente pode pular para zonas onde haja campo de visao.
+
+Habilidade Zombie Link:
+Um turno extra para o sobrevivente quando puxar uma carta de ativacao extra zumbi.
+
+Passar uma acao:
+Nao achei a parte sobre passar a acao para outro sobrevivente em nenhuma parte do
+manual.
+
+Vez dos jogadores:
+Um jogador joga com todos os seus sobreviventes na ordem que desejar, depois o
+jogador a sua esquerda faz a sua jogada.
+
+Derrota:
+1. O game eh perdido quando todos os sobreviventes sao abatidos.
+2. O jogo acaba quando o necromancer escapa e houver um total de 6 zonas de entrada
+de zumbis no mapa (5 + a do necromancer).
