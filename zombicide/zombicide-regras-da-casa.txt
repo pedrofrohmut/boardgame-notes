@@ -4,6 +4,7 @@ Green Horde:
     Jogar dado para fazer busca. 1 aparece zumbi, 6 vem item extra e demais numeros
   continua a mecanica normal do jogo. Tambem ignorar as cartas de achar um zumbi,
   somente descarte e compre outra ou tire do baralho previamente.
+    Essa regra pode ser desabilitada para acelerar o jogo.
 
 2. Ordem dos personagens:
     No jogo tem o primeiro jogador, com token, e troca-se o token para o jogador da
@@ -12,18 +13,34 @@ Green Horde:
     Pelas regras da casa todos os sobreviventes podem ser jogados, idenpendentemente
   de a qual jogador ele pertence. Nao ha ordem fixa os jogadores escolhem quem vai
   primeiro.
+    Como o jogo eh coperativo fica mais divertido ter essa liberdade e nao compromete
+  o resultado final do jogo, somente ganhos e nenhum ponto.
 
 3. Passar uma acao:
     Os sobreviventes podem ceder uma de suas acoes para outro sobrevivente uma vez
-  por turno. Utilizando o token da coroa.
+  por turno. Utilizando o token da coroa. Essa regra pode ser desabilitada para
+  deixar o jogo mais dificil.
 
 4. Acabar as miniaturas:
     Toda a vez que acabar as miniaturas referentes a carta de zumbi a ser resolvida
-  coloque outro tipo de zumbi no lugar.
+  coloque outro tipo de zumbi no lugar sem nenhuma ativacao extra. Regra adicionada
+  para que o nivel vermelho nao seja o caso de ativacoes infinitas. Essa regra pode
+  ser cancelada no caso de se quizer jogar no extra hard mode (masoquista).
 
-5. Divisao dos zumbis:
+5. Divisao dos zumbis (baseado no zombicide white death):
     A contrario do que as versoes mais atigas dizem no manual, nao utilizar a meca-
   nica de adicionar um zumbi extra quando os grupo forem se dividir. Simplesmente
   escolha um dos lados para ter um zumbi a menos. No caso de haver um caminho livre
   e um caminho que cruza algum obstaculo, de preferencia para o caminho livre para
   acelerar a movimentacao dos zumbis.
+
+6. Fogo de dragao (regras inspiradas no uso de lanca-chamas do zombicide invader):
+    6.1. Pode-se jogar a bilis e por fogo em uma acao no alcance 0-1. Ao contrario das
+  regras padrao que poderia se gastar 1 acao para por na mao +1 para jogar a bilis
+  e mais uma para acender a bilis. Gastamos uma unica acao para tornar o jogo mais
+  dinamico e que tambem foi uma regra que mudou nas versoes mais novas do jogo.
+    6.2. Nao eh necessario o descarte da tocha apos acender a bilis. O descarte da bilis
+  e da tocha toda as vezes que o fogo de dragao for usado deixaria o jogo muito tran-
+  cado e demorado limitando em exagero o uso de fogo de dragao. O descarte da tocha
+  eh um exagero ja que o descarte da bilis ja eh o suficiente para balancear o uso do
+  fogo de dragao nas partidas.
